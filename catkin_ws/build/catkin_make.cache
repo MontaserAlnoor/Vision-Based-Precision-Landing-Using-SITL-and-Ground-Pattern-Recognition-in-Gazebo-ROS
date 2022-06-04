@@ -1,0 +1,2 @@
+example_pkg:gazebo_drone:ros_numpy:rqt_image_view
+-DCATKIN_DEVEL_PREFIX=/home/dronedojo/courseRoot/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dronedojo/courseRoot/catkin_ws/install -G Unix Makefiles

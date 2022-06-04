@@ -1,0 +1,8 @@
+prefix=/home/dronedojo/courseRoot/catkin_ws/install
+
+Name: gazebo_drone
+Description: Description of gazebo_drone
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
